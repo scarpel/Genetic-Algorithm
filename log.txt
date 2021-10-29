@@ -1,0 +1,241 @@
+ - Informações da execução -
+
+Número de tentativas: 20
+Média do valor fitness: 10.902097966052093
+Desvio padrão: 0.07243878659984701
+Variância: 0.005247377804058175
+Pior valor fitness obtido: 10.757352941176476
+Melhor valor fitness obtido: 11.083333333333332
+Obtido na iteração: 8
+
+------------------------
+
+ - Melhor solução - 
+
+Dias necessários para assistir todos os filmes: 66
+Cronograma sugerido:
+ - Dia 1
+  Gladiator
+
+ - Dia 2
+  The Greatest Show on Earth
+
+ - Dia 3
+  Around the World in 80 Days
+
+ - Dia 4
+  The Broadway Melody
+  All About Eve
+
+ - Dia 5
+  Ben-Hur
+
+ - Dia 6
+  A Man for All Seasons
+  Birdman
+
+ - Dia 7
+  A Beautiful Mind
+  The Artist
+
+ - Dia 8
+  In the Heat of the Night
+  The King's Speech
+
+ - Dia 9
+  Wings
+
+ - Dia 10
+  The Departed
+
+ - Dia 11
+  The French Connection
+  Rain Man
+
+ - Dia 12
+  Gone With the Wind
+
+ - Dia 13
+  The Shape of Water
+  Gigi
+
+ - Dia 14
+  Amadeus
+
+ - Dia 15
+  The Godfather
+
+ - Dia 16
+  Parasite
+  It Happened One Night
+
+ - Dia 17
+  Schindler's List
+
+ - Dia 18
+  The Bridge on the River Kwai
+
+ - Dia 19
+  Marty
+  Forrest Gump
+
+ - Dia 20
+  The Sting
+
+ - Dia 21
+  Gandhi
+
+ - Dia 22
+  The Great Ziegfeld
+
+ - Dia 23
+  Midnight Cowboy
+  Cimarron
+
+ - Dia 24
+  Hamlet
+
+ - Dia 25
+  Green Book
+
+ - Dia 26
+  The Last Emperor
+
+ - Dia 27
+  Crash
+  All the King's Men
+
+ - Dia 28
+  Lawrence of Arabia
+
+ - Dia 29
+  Mutiny on the Bounty
+
+ - Dia 30
+  Patton
+
+ - Dia 31
+  Moonlight
+  You Can't Take it With You
+
+ - Dia 32
+  Spotlight
+  Cavalcade
+
+ - Dia 33
+  My Fair Lady
+
+ - Dia 34
+  All Quiet on the Western Front
+
+ - Dia 35
+  Dances with Wolves
+
+ - Dia 36
+  The Best Years of Our Lives
+
+ - Dia 37
+  Mrs. Miniver
+
+ - Dia 38
+  Oliver!
+
+ - Dia 39
+  Out of Africa
+
+ - Dia 40
+  Million Dollar Baby
+  On the Waterfront
+
+ - Dia 41
+  Kramer vs. Kramer
+  12 Years a Slave
+
+ - Dia 42
+  The Sound of Music
+
+ - Dia 43
+  The English Patient
+
+ - Dia 44
+  Slumdog Millionaire
+  Platoon
+
+ - Dia 45
+  Nomadland
+  Rocky
+
+ - Dia 46
+  Gentleman's Agreement
+  American Beauty
+
+ - Dia 47
+  Chariots of Fire
+
+ - Dia 48
+  Ordinary People
+  Grand Hotel
+
+ - Dia 49
+  Annie Hall
+  Tom Jones
+
+ - Dia 50
+  Titanic
+
+ - Dia 51
+  The Hurt Locker
+
+ - Dia 52
+  Unforgiven
+  Driving Miss Daisy
+
+ - Dia 53
+  One Flew Over the Cuckoo's Nest
+
+ - Dia 54
+  The Deer Hunter
+
+ - Dia 55
+  The Apartment
+  An American in Paris
+
+ - Dia 56
+  The Lord of the Rings: The Return of the King
+
+ - Dia 57
+  The Godfather: Part II
+
+ - Dia 58
+  Rebecca
+
+ - Dia 59
+  From Here to Eternity
+  The Silence of the Lambs
+
+ - Dia 60
+  Braveheart
+
+ - Dia 61
+  Chicago
+  Going My Way
+
+ - Dia 62
+  West Side Story
+
+ - Dia 63
+  No Country for Old Men
+  How Green Was My Valley
+
+ - Dia 64
+  Terms of Endearment
+  Casablanca
+
+ - Dia 65
+  Shakespeare in Love
+  The Life of Emile Zola
+
+ - Dia 66
+  Argo
+  The Lost Weekend
+
